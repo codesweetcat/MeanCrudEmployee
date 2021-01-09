@@ -1,0 +1,13 @@
+.App {
+ border: 1px ;
+ padding:10px
+}
+.rowGraph {
+  display: flex;
+  flex-direction: row;
+}
+.half {
+  width: calc(50% - 9px);
+  height: 300px;
+}
+

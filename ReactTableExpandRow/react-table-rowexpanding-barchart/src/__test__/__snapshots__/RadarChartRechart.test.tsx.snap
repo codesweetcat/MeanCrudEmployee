@@ -1,0 +1,538 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+<div
+  className="recharts-responsive-container"
+  style={
+    Object {
+      "height": "100%",
+      "maxHeight": undefined,
+      "minHeight": undefined,
+      "minWidth": undefined,
+      "width": "100%",
+    }
+  }
+>
+  <div
+    data-testid="redarChart"
+  >
+    <div
+      className="recharts-wrapper"
+      style={
+        Object {
+          "cursor": "default",
+          "height": 500,
+          "position": "relative",
+          "width": 500,
+        }
+      }
+    >
+      <svg
+        className="recharts-surface"
+        height={500}
+        version="1.1"
+        viewBox="0 0 500 500"
+        width={500}
+      >
+        <defs>
+          <clipPath
+            id="recharts4-clip"
+          >
+            <rect
+              height={490}
+              width={490}
+              x={5}
+              y={5}
+            />
+          </clipPath>
+        </defs>
+        <g
+          className="recharts-polar-grid"
+        >
+          <g
+            className="recharts-polar-grid-angle"
+          >
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={300}
+              y1={150}
+              y2={50}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={378.18314824680294}
+              y1={150}
+              y2={87.65101981412661}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={397.49279121818233}
+              y1={150}
+              y2={172.25209339563142}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={343.3883739117558}
+              y1={150}
+              y2={240.0968867902419}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={256.6116260882442}
+              y1={150}
+              y2={240.0968867902419}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={202.50720878181767}
+              y1={150}
+              y2={172.2520933956315}
+            />
+            <line
+              stroke="#ccc"
+              x1={300}
+              x2={221.816851753197}
+              y1={150}
+              y2={87.65101981412667}
+            />
+          </g>
+          <g
+            className="recharts-polar-grid-concentric"
+          >
+            <circle
+              className="recharts-polar-grid-concentric-circle"
+              cx={300}
+              cy={150}
+              fill="none"
+              r={0}
+              stroke="#ccc"
+            />
+            <circle
+              className="recharts-polar-grid-concentric-circle"
+              cx={300}
+              cy={150}
+              fill="none"
+              r={27.346786973696908}
+              stroke="#ccc"
+            />
+            <circle
+              className="recharts-polar-grid-concentric-circle"
+              cx={300}
+              cy={150}
+              fill="none"
+              r={54.693573947393816}
+              stroke="#ccc"
+            />
+            <circle
+              className="recharts-polar-grid-concentric-circle"
+              cx={300}
+              cy={150}
+              fill="none"
+              r={100}
+              stroke="#ccc"
+            />
+          </g>
+        </g>
+        <g
+          className="recharts-layer recharts-polar-angle-axis"
+        >
+          <polygon
+            className="recharts-polygon recharts-polar-angle-axis-line"
+            fill="none"
+            points="300,50 378.18314824680294,87.65101981412661 397.49279121818233,172.25209339563142 343.3883739117558,240.0968867902419 256.6116260882442,240.0968867902419 202.50720878181767,172.2520933956315 221.816851753197,87.65101981412667"
+            radius={100}
+          />
+          <g
+            className="recharts-layer recharts-polar-angle-axis-ticks"
+          >
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={300}
+                x2={300.00000000000006}
+                y1={50}
+                y2={42}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="middle"
+                  x={300.00000000000006}
+                  y={32}
+                >
+                  <tspan
+                    dy="0em"
+                    x={300.00000000000006}
+                  >
+                    literature
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={378.18314824680294}
+                x2={384.43780010654723}
+                y1={87.65101981412661}
+                y2={82.66310139925675}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="start"
+                  x={384.43780010654723}
+                  y={82.66310139925675}
+                >
+                  <tspan
+                    dy="0em"
+                    x={384.43780010654723}
+                  >
+                    rna_expression
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={397.49279121818233}
+                x2={405.29221451563694}
+                y1={172.25209339563142}
+                y2={174.03226086728193}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="start"
+                  x={405.29221451563694}
+                  y={174.03226086728193}
+                >
+                  <tspan
+                    dy="0em"
+                    x={405.29221451563694}
+                  >
+                    genetic_association
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={343.3883739117558}
+                x2={346.85944382469626}
+                y1={240.0968867902419}
+                y2={247.30463773346128}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="start"
+                  x={346.85944382469626}
+                  y={247.30463773346128}
+                >
+                  <tspan
+                    dy="0em"
+                    x={346.85944382469626}
+                  >
+                    somatic_mutation
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={256.6116260882442}
+                x2={253.14055617530374}
+                y1={240.0968867902419}
+                y2={247.30463773346128}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="end"
+                  x={253.14055617530374}
+                  y={247.30463773346128}
+                >
+                  <tspan
+                    dy="0em"
+                    x={253.14055617530374}
+                  >
+                    known_drug
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={202.50720878181767}
+                x2={194.70778548436306}
+                y1={172.2520933956315}
+                y2={174.03226086728202}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="end"
+                  x={194.70778548436306}
+                  y={174.03226086728202}
+                >
+                  <tspan
+                    dy="0em"
+                    x={194.70778548436306}
+                  >
+                    animal_model
+                  </tspan>
+                </text>
+              </g>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-angle-axis-tick"
+            >
+              <line
+                className="recharts-polar-angle-axis-tick-line"
+                fill="none"
+                radius={100}
+                x1={221.816851753197}
+                x2={215.56219989345277}
+                y1={87.65101981412667}
+                y2={82.66310139925679}
+              />
+              <g
+                className="recharts-layer recharts-polar-angle-axis-tick"
+              >
+                <text
+                  className="recharts-text recharts-polar-angle-axis-tick-value"
+                  fontSize="10"
+                  radius={100}
+                  stroke="none"
+                  textAnchor="end"
+                  x={215.56219989345277}
+                  y={82.66310139925679}
+                >
+                  <tspan
+                    dy="0em"
+                    x={215.56219989345277}
+                  >
+                    affected_pathway
+                  </tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+          className="recharts-layer recharts-polar-radius-axis"
+        >
+          <line
+            className="recharts-polar-radius-axis-line"
+            fill="none"
+            radius={100}
+            stroke="#ccc"
+            x1={300}
+            x2={300}
+            y1={150}
+            y2={50}
+          />
+          <g
+            className="recharts-layer recharts-polar-radius-axis-ticks"
+          >
+            <g
+              className="recharts-layer recharts-polar-radius-axis-tick"
+            >
+              <text
+                className="recharts-text recharts-polar-radius-axis-tick-value"
+                fill="#ccc"
+                radius={100}
+                stroke="none"
+                textAnchor="start"
+                transform="rotate(0, 300, 150)"
+                x={300}
+                y={150}
+              >
+                <tspan
+                  dy="0em"
+                  x={300}
+                >
+                  0
+                </tspan>
+              </text>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-radius-axis-tick"
+            >
+              <text
+                className="recharts-text recharts-polar-radius-axis-tick-value"
+                fill="#ccc"
+                radius={100}
+                stroke="none"
+                textAnchor="start"
+                transform="rotate(0, 300, 122.65321302630309)"
+                x={300}
+                y={122.65321302630309}
+              >
+                <tspan
+                  dy="0em"
+                  x={300}
+                >
+                  0.2
+                </tspan>
+              </text>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-radius-axis-tick"
+            >
+              <text
+                className="recharts-text recharts-polar-radius-axis-tick-value"
+                fill="#ccc"
+                radius={100}
+                stroke="none"
+                textAnchor="start"
+                transform="rotate(0, 300, 95.30642605260618)"
+                x={300}
+                y={95.30642605260618}
+              >
+                <tspan
+                  dy="0em"
+                  x={300}
+                >
+                  0.4
+                </tspan>
+              </text>
+            </g>
+            <g
+              className="recharts-layer recharts-polar-radius-axis-tick"
+            >
+              <text
+                className="recharts-text recharts-polar-radius-axis-tick-value"
+                fill="#ccc"
+                radius={100}
+                stroke="none"
+                textAnchor="start"
+                transform="rotate(0, 300, 50)"
+                x={300}
+                y={50}
+              >
+                <tspan
+                  dy="0em"
+                  x={300}
+                >
+                  0.7313473432632761
+                </tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g
+          className="recharts-layer recharts-radar"
+        >
+          <g
+            className="recharts-layer recharts-radar-polygon"
+          >
+            <polygon
+              className="recharts-polygon"
+              fillOpacity={0}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              points="300,150 300,150 300,150 300,150 300,150 300,150 300,150"
+              stroke="#8884d8"
+            />
+          </g>
+        </g>
+      </svg>
+      <div
+        className="recharts-legend-wrapper"
+        style={
+          Object {
+            "fontSize": "0.5rem",
+            "height": "auto",
+            "left": 5,
+            "paddingLeft": "10px",
+            "position": "absolute",
+            "top": 5,
+            "width": "auto",
+          }
+        }
+      >
+        <p>
+          Association Score
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "display": "none",
+        "height": 0,
+        "position": "absolute",
+        "visibility": "hidden",
+        "width": 0,
+      }
+    }
+  />
+</div>
+`;
